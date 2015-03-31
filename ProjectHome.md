@@ -1,0 +1,1 @@
+Tool for cracking small key RSA cipher. It takes public key and cipher text as an input. Works with integers only because of inconsistency of string to integer conversion (some people use ASCII codes for that and some use other conventions). If you have to work with hex or strings then you should properly convert it to the Integer representation.
